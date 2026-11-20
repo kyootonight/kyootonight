@@ -46,7 +46,7 @@
 
 **Backend & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,vscode" alt="Backend & Tools Stack" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Backend & Tools Stack" />
 
 </div>
 
