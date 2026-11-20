@@ -28,7 +28,7 @@
 
 ## About Me
 
-* 🎓 **Education:** Informatics student at **Universitas Sultan Ageng Tirtayasa (UNTIRTA)** (`NIM: 3337250093`, Class A), exploring web engineering, databases, algorithms, networking, and AI.
+* 🎓 **Education:** Informatics student at **Universitas Sultan Ageng Tirtayasa (UNTIRTA)**, exploring web engineering, databases, algorithms, networking, and AI.
 * 🛡️ **Organization:** Active in the **Human Resources Development (HRD)** division at **Tirtayasa Information Security Society (TISS)**, helping prepare foundational informatics and security learning materials.
 * 🛠️ **Current Focus:** Building modern full-stack web apps, refining personal portfolio architecture, and experimenting with free-API automation and AI workflows.
 
