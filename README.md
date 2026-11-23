@@ -12,7 +12,7 @@
 
 <!-- Quick Action Badges -->
 <p align="center">
-  <a href="https://kyootonight.netlify.app/">
+  <a href="https://cv-jacky.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live_Demo-0F172A?style=for-the-badge&logo=netlify&logoColor=38BDF8" alt="Portfolio"/>
   </a>
   <a href="https://github.com/kyootonight?tab=repositories">
